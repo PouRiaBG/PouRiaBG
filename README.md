@@ -1,72 +1,53 @@
-<!-- <p align="center"><img width="80%" alt="Hello, I'm Pouria. I do open source!" src="./assets/gh-readme-header.png" /></p>
- -->
-<br />
-<p align="center"><h1> Hello, I'm Pouria. I do open source!</h1> </p>
+<div align="center">
 
-I'm a self-taught passionate FrontEnd developer from Iran 🇮🇷
- ## Who am I ?
-```javascript
- const information = {
-    name : "Pouria",
-    job : "Developer",
-    age : 23,
-    address : "Mashhad, Iran"
- }
- ```
+# Pouria Bonyadgozar
 
-**About me**
+### Frontend Engineer · React · TypeScript · Next.js
 
-- 💼 FrontEnd Engineer at [Profile](http://Profile.ir/)
+I build fast, accessible, and maintainable web products—from polished interfaces to content-driven platforms.
 
-<!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
+[![GitHub](https://img.shields.io/badge/GitHub-PouRiaBG-181717?style=flat-square&logo=github)](https://github.com/PouRiaBG)
 
-- ❤️ I love writing TypeScript, and building ReactJs Apps.
+</div>
 
-- 💬 Ask me about anything [here](https://github.com/PouRiaBG/PouRiaBG/issues)
+## About
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+Frontend engineer focused on modern React applications, thoughtful UI architecture, localization, accessibility, SEO, and reliable production delivery.
 
+Currently building **[Konjed Stories](https://github.com/PouRiaBG/konjed-stories)**, a multilingual content platform powered by Next.js and Payload CMS.
 
+## Selected work
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PouRiaBG&theme=algolia" alt="" /></p>
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[Konjed Stories](https://github.com/PouRiaBG/konjed-stories)** | Multilingual content, SEO, structured data, CMS workflows, migrations, and production deployment | Next.js 16, React 19, TypeScript, Payload CMS, Tailwind CSS |
+| **[COVID-19 Panel](https://github.com/PouRiaBG/covid19-panel)** | Responsive data visualization, server-state management, API mocking, and resilient UI states | React, TypeScript, TanStack Query, Chart.js, MSW, Zustand |
+| **[Online Shop](https://github.com/PouRiaBG/online-shop)** | Typed e-commerce flows, routing, component composition, and client-state management | React, TypeScript, React Router, Ant Design, Zustand |
 
-<br>
-<br>
+## Toolbox
 
-#### Top Repositories
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payloadcms&logoColor=white)
 
+## Engineering values
 
-<a href="https://github.com/PouRiaBG/covid19-panel.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PouRiaBG&repo=covid19-panel&theme=buefy" />
-</a>
-<a href="https://github.com/PouRiaBG/online-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PouRiaBG&repo=online-shop&theme=buefy" />
-</a>
+- Build for users first: accessible, responsive, and fast.
+- Keep architecture understandable and code easy to change.
+- Treat localization, metadata, testing, and deployment as product features.
+- Prefer small, dependable tools over unnecessary complexity.
 
-<br />
-<br />
+## GitHub activity
 
-<!-- <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="PouRia | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+<div align="center">
 
- -->
-<!--
-**PouRiaBG/PouRiaBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pouria's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouRiaBG&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+The best way to reach me is through [GitHub](https://github.com/PouRiaBG).
